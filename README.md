@@ -7,6 +7,7 @@
 
 ## Assembly releases
 ### Version 1.0
+* Hybrid assembly
 
 ### Version 0.7
 * PromethION assembly
