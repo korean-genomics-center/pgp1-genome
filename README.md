@@ -2,10 +2,8 @@
 : PGP1 is the first genome of PGP (Personal Genome Project).
 
 ## General Information
-* Public profile
-Link: https://my.pgp-hms.org/profile_public?hex=hu43860C
-* Cell line information 
-Link: https://web.expasy.org/cellosaurus/CVCL_F182
+* Public profile ([Link](https://my.pgp-hms.org/profile_public?hex=hu43860C))
+* Cell line information ([Link](https://web.expasy.org/cellosaurus/CVCL_F182))
 
 ## Assembly releases
 NCBI Genbank: Accession no. JAHRGN000000000
